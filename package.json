@@ -16,20 +16,20 @@
     "@expo/metro-runtime": "~4.0.1",
     "axios": "^1.8.1",
     "expo-font": "^13.0.4",
-    "expo-router": "^4.0.17",
+    "expo-router": "^4.0.20",
     "expo-splash-screen": "^0.29.22",
     "expo-status-bar": "~2.0.1",
     "react": "18.3.1",
     "react-dom": "18.3.1",
-    "react-native": "0.76.7",
+    "react-native": "0.76.9",
     "react-native-dotenv": "^3.4.11",
     "react-native-swipe-list-view": "^3.2.9",
     "react-native-web": "~0.19.13"
   },
   "devDependencies": {
-    "metro-react-native-babel-preset": "^0.73.7",
     "@types/react": "~18.3.12",
-    "expo": "^52.0.37",
+    "expo": "^52.0.42",
+    "metro-react-native-babel-preset": "^0.73.7",
     "typescript": "^5.3.3"
   }
 }
